@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hey, i'm Kensi 👋🏼
 
+I am an aspiring full-stack developer and learning facilitator. I am pivoting from a career in business and finance, entering the tech industry after completing a Full-Stack Software Development for the AI Augmented Developer with Code Institute.
+
+Below are some of my favourite projects that I developed during my time on the course!
 <!--
 **kens-i/kens-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
