@@ -27,7 +27,7 @@ Learning Facilitator & Junior Full‑Stack Developer (HTML/CSS/JS/Python/Django)
 
 ---
 
- <span style="font-size:1.5em; font-weight:normal;">🔗 Below are some of my favourite projects that I developed during my time on the course!</span>
+ <span style="font-size:3em; font-weight:normal;">🔗 Below are some of my favourite projects that I developed during my time on the course!</span>
 
 <!--
 **kens-i/kens-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
