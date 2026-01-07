@@ -25,7 +25,9 @@ Learning Facilitator & Junior Full‑Stack Developer (HTML/CSS/JS/Python/Django)
 - **Inclusive Mentoring (NHS programme):** active listening, confidentiality, and respectful dialogue around EDI.
 - **Safeguarding & Accessibility:** experience adapting communication for neurodiverse needs, Intro to British Sign Language.
 
-🔗 Below are some of my favourite projects that I developed during my time on the course!
+---
+
+# 🔗 Below are some of my favourite projects that I developed during my time on the course!
 
 <!--
 **kens-i/kens-i** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
