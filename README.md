@@ -1,6 +1,6 @@
 ## Hey, i'm Kensi 👋🏼
 
-I am an aspiring full-stack developer and learning facilitator. I am transitioning from a career in business and finance, entering the tech industry after completing a Full-Stack Software Development for the AI Augmented Developer with Code Institute.
+I am a Junior Full Stack Developer and Learning Facilitator. I am transitioning from a career in Business and Finance, entering the tech industry after completing a Full-Stack Software Development for the AI Augmented Developer with Code Institute.
 
 Below are some of my favourite projects that I developed during my time on the course!
 <!--
