@@ -12,7 +12,6 @@ Learning Facilitator & Junior Full‑Stack Developer (HTML/CSS/JS/Python/Django)
 ## 🔧 Tech & Tools
 
 **Languages & Frameworks:** HTML, CSS, JavaScript, Python, Django, Bootstrap 
-
 **Databases:** SQLite, PostgreSQL  
 **Version Control & Hosting:** Git, GitHub, Heroku  
 **Learning, planning & collaboration:** Microsoft 365, Google Workspace, Miro, Balsamiq, Figma, LMS platforms
