@@ -1,6 +1,6 @@
 ## Hey, I'm Kensi 👋🏼
 
-Learning Facilitator & Junior Full‑Stack Developer (HTML/CSS/JS/Python/Django) with Business Admin/Finance/Customer Service roots. I mentor learners, explain tech clearly and build accessible, reliable web apps. Entering the tech industry after completing a Full-Stack Software Development for the AI Augmented Developer course with Code Institute.
+Learning Facilitator & Junior Full‑Stack Developer (HTML/CSS/JS/Python/Django) with a background in Business Admin/Finance/Customer Service. I mentor learners, explain tech clearly and build accessible, reliable web apps. Entering the tech industry after completing a Full-Stack Software Development for the AI Augmented Developer course with Code Institute.
 
 - 🌱 Currently: part of the **Future Coders Management Team** - planning and facilitating Hackathons to foster an inclusive environment of continual development! **Sharpening full‑stack skills** (Python/Django, JS) and looking for an **exciting new opportunity**.
 - 🎯 Interests: inclusive education, clean & functional code, thoughtful user experiences, continuous development and building helpful tools.
