@@ -20,9 +20,9 @@ Learning Facilitator & Junior Full‑Stack Developer (HTML/CSS/JS/Python/Django)
 
 ## 🧑‍🏫 Facilitation & Mentoring
 
-- **Adult Education (Wakefield Adults Education Service):** onboarding support, short class talks, reception cover, exam invigilation; professional, inclusive learner experience.
-- **Technical Peer Support (Code Institute):** explaining concepts, presenting projects, debugging collaboratively; remote facilitation via Teams/Zoom/Meet and LMS tracking.
-- **Inclusive Mentoring (NHS programme):** active listening, confidentiality, and respectful dialogue around EDI.
+- **Adult Education (Wakefield Adults Education Service):** onboarding support, class talks, reception cover, exam invigilation and Additional Learning Support (ALS) aid; professional, inclusive learner experience.
+- **Technical Peer Support (Code Institute):** explaining concepts, presenting projects, debugging collaboratively; remote via Google Meet/Discord and LMS tracking.
+- **Inclusive Mentoring (NHS programme):** active listening, confidentiality, and respectful dialogue around Equality, Diversity and Inclusion.
 - **Safeguarding & Accessibility:** experience adapting communication for neurodiverse needs, Intro to British Sign Language.
 
 ---
